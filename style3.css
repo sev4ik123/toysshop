@@ -1,0 +1,150 @@
+html, body {
+    margin: 0;               
+    padding: 0;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    height: auto;
+    overflow-y: auto;
+}
+.headerDva ul{
+    list-style: none;
+    margin: auto;
+    padding: auto;
+    display: flex;
+    gap: 30px;
+}
+.headerDva{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
+    padding: 10px 20px;
+    gap: 20px;
+    border-bottom: 1px solid #d8d8d8;
+ 
+}
+.logo img {
+    width: 150px;                    
+    height: auto;
+    border-radius: 8px;
+}
+
+.buttoncat {
+    background-color: #e226aa;
+    color: #fff;
+    padding: 26px 64px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 24px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+.buttoncat:hover{
+    background-color: #e23fb1;
+}
+.poisk{
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 5px;
+    width: 550px;
+}
+.poisk input[type="search"] {
+    border: none;
+    outline: none;
+    padding: 8px;
+    flex-grow: 1;
+    font-size: 16px;
+}
+.icons {
+    display: flex;
+    gap: 20px;
+}
+.iconbutton {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    font-size: 14px;
+    transition: 0.25s;
+    color: black;
+}
+.iconbutton img {
+    width: 40px;                 
+    height: 40px;            
+    margin-bottom: 5px;   
+    transition: 0.25s;     
+}
+.iconbutton:hover {
+    color: #e226aa;
+}
+.iconbutton:hover img {
+    filter: invert(29%) sepia(91%) saturate(3904%) hue-rotate(308deg) brightness(92%) contrast(101%);
+}
+
+.about-container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    min-height: 100vh; 
+    padding: 2px;
+    background-color: #f7f7f7; 
+}
+
+.about-content {
+    max-width: 90%; 
+    width: 100%; 
+    padding: 30px;
+    background-color: #fff; 
+    border-radius: 8px; 
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
+}
+
+.about-content h1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.about-content p {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+.downinfo{
+    display: flex;
+    background-color: #e0e0e0;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 40px 30px;
+
+}
+.internet-shop, .company, .help, .contacts{
+    display: flex;
+    flex-direction: column;
+}
+.infozag{
+    color: #222222;
+    font-weight: bold;
+}
+.infotext {
+        line-height: 2;
+        color: #575757;
+        text-decoration: none;
+        margin-bottom: 8px; 
+ }
+    
+.infotext:hover {
+        color: #e226aa;
+}
+.infotext2{
+        line-height: 2;
+        color: #444444;
+        text-decoration: none;
+}
+    
+    

@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "title":"Аянами Рей",
+        "description":"Крутая игрушка крутого персонажа из аниме, к сожалению",
+        "price":600,
+        "image":"pics/cards/ayanami.jpg"
+    },
+    {
+        "id":2,
+        "title":"Иисус",
+        "description":"Игрушка для тех, кому просто по приколу захотелось",
+        "price":666,
+        "image":"pics/cards/jesus.jpg"
+    },
+    {
+        "id":3,
+        "title":"Ху Тао",
+        "description":"Миленькая игрушка персожана из геншин импакта (не бейте пж)",
+        "price":500,
+        "image":"pics/cards/softtoa.jpg"
+    },
+    {
+        "id":4,
+        "title":"Котовая акула",
+        "description":"Ваша колекция игрушек не может существовать без котика, а тем более без котика-акулки",
+        "price":800,
+        "image":"pics/cards/sharkcat.jpg"
+    },
+    {
+        "id":5,
+        "title":"Помни",
+        "description":"Что помни то? Ты не договорил...",
+        "price":700,
+        "image":"pics/cards/pomni.jpg"
+    },
+    {
+        "id":6,
+        "title":"Куроми",
+        "description":"И для самых суровых мужиков найдется идеальная игрушка",
+        "price":750,
+        "image":"pics/cards/kuromi.jpg"
+    },
+    {
+        "id":7,
+        "title":"Капибара",
+        "description":"Царь мемов и приколов. Эх, сейчас бы в горячей воде с мандаринами поплавать, а не это все",
+        "price":999,
+        "image":"pics/cards/kapibara.jpg"
+    },
+    {
+        "id":8,
+        "title":"Акулабу",
+        "description":"Милейший банбу из ZZZ. Что-то там Эллен, что-то там Джо",
+        "price":850,
+        "image":"pics/cards/akulabu.jpg"
+    },
+    {
+        "id":9,
+        "title":"Чжун Ли",
+        "description":"Дед с деменцией опять забыл свой кошелек. А говорят, что он их создал...",
+        "price":550,
+        "image":"pics/cards/zhongli.jpg"
+    },
+    {
+        "id":10,
+        "title":"Утка",
+        "description":"Такого опасного парня я бы точно не обозвал. Вы видели какой у него нож?",
+        "price":999,
+        "image":"pics/cards/duck.jpg"
+    }
+]
